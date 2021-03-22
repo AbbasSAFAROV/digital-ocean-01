@@ -25,7 +25,7 @@ SECRET_KEY = 'd8($s_$ibmz$)#4-pb4zbao5uu8y8ov3-tln-_%8l-hsfzpnfa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['174.138.15.190','http://milkiilaha.org','www.milkiilaha.org']
 
 
 # Application definition
